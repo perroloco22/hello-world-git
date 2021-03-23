@@ -16,3 +16,5 @@ select * from Orders as o
 	--hola mundo
 	-- 4to hola mundo
 	
+select * from categories
+	
